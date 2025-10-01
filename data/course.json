@@ -1,0 +1,48 @@
+{
+  "term": "Spring",
+  "year": "2022",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [
+    [
+      "Humanities",
+      "Literature",
+      "Comedy"
+    ]
+  ],
+  "legacy_uid": "",
+  "instructors": {
+    "content": [
+      "fdcae15c-d0cd-54d9-94fa-bacc0caedcbc"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "d9cb28bc-02b5-4417-b72a-6adeb42e7d1e",
+    "website": "21l021-comedy"
+  },
+  "course_title": "Comedy",
+  "hide_download": true,
+  "mit_learn_topics": [],
+  "course_description": "Comedy, that most elastic literary and performance mode, skewers artifice, topples authority, and reverses expectations, not with the fatal outcomes of tragedy but with laughter and festivity. This class examines both deep roots and current forms of comedy, with a particular focus on comic insubordination. And food.\n\nWe will revel in Greek, Roman, and Shakespearean drama; explore Aphra Behn\u2019s eighteenth-century feminist rakes and sexual adventurers in *The Rover*; investigate social satire in Jane Austen, Herman Melville, and Oscar Wilde; peek under the covers of small-town family life in Alison Bechdel\u2019s *Fun Home*; and probe the uneasy relationship between farce and romantic love, violence and redemptive humor, satire and festivity in comic art. Discussion will draw on examples of popular and contemporary forms, including film and sketch comedy.",
+  "department_numbers": [
+    "21L"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "21L.021",
+  "course_image_thumbnail": {
+    "content": "37344cac-4f25-4996-be43-ec0adb167c44",
+    "website": "21l021-comedy"
+  },
+  "hide_download_original": false,
+  "learning_resource_types": [
+    "Written Assignments",
+    "Readings",
+    "Instructor Insights",
+    "Editable Files"
+  ],
+  "site_uid": "da7436b9-ef03-470f-a2e8-3d53a8575e17",
+  "site_short_id": "21l.021-spring-2022",
+  "site_url_path": "courses/21l-021-comedy-spring-2022"
+}
