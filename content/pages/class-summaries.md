@@ -14,7 +14,7 @@ For opening class be prepared:
 - to reflect on a form of comic art—in whatever medium or venue—that you consider a good example of comedy
 - to discuss a brief video clip.
 
-We will also sign up for [Annotation Studio](https://app.annotation.studio/), a useful tool for developing and sharing your readings; and in-class presentations.
+We will also sign up for {{% resource_link "67d2c483-7396-4e6f-8214-b12fc15afe42" "Annotation Studio" %}}, a useful tool for developing and sharing your readings; and in-class presentations.
 
 ### Session 2: Aristophanes, *Lysistrata*
 
@@ -67,7 +67,7 @@ We will use class time to practice skills of peer review, working with writing p
 
 ### Session 8: Shakespeare, *The Taming of the Shrew*
 
-For your reading of Shakespeare's *The Taming of the Shrew*, you can use any print edition or the [digital](http://shakespeare.mit.edu/) one available through MIT. Please read the Induction and Acts I-II and post at the discussion board.
+For your reading of Shakespeare's *The Taming of the Shrew*, you can use any print edition or the {{% resource_link "2da4ede5-3acb-4250-b156-9da665f40806" "digital" %}} one available through MIT. Please read the Induction and Acts I-II and post at the discussion board.
 
 We will be considering this play in relation to ancient Greek and Roman comedy, thinking back to Aristophanes (with revisions of Essay 1 in mind) and questions about gender reversals, ritual, invective and festive elements, and breaking social norms and restoring social order; and to Plautus (and Wilder) with interest in farce, mistaken identity, and sexual and physical comedy. We will also be looking ahead to Shakespeare's development of these themes in *Twelfth Night* and to a comedy centered more visibly on romantic love.
 
@@ -83,7 +83,7 @@ As in our first Writing Workshop, we will work on drafts to develop skills of pe
 
 ### Session 11: Shakespeare, *Twelfth Night*
 
-As with your reading of Shakespeare's *The Taming of the Shrew*, you are free to use any print edition for *Twelfth Night* or the [one available through MIT](http://shakespeare.mit.edu/twelfth_night/index.html). Please read Acts I-III and post at the discussion board before class.
+As with your reading of Shakespeare's *The Taming of the Shrew*, you are free to use any print edition for *Twelfth Night* or the {{% resource_link "84dfe5d3-773d-464b-90b4-4f9284369805" "one available through MIT" %}}. Please read Acts I-III and post at the discussion board before class.
 
 We will be thinking about Shakespeare's so-called "green world" or festive comedy (see Northrop Frye's chapter, "The Argument of Comedy," in "Comedy Resources/Theories of Comedy" for further background): the use of farce in sometimes uneasy conjunction with romantic love plots (developed more fully than in *Shrew)*; Plautine twinning and Elizabethan Fools; dressing, undressing, and fluid gender roles and sexuality; the language of courtly love and its relationship with servitude and the (again Plautine) reliance on clever servants; verbal wit and Shakespearean "quibbles"; and/or other connections or innovations you notice.
 
@@ -91,7 +91,7 @@ A film version (dir. Trevor Nunn, 1996) with Imogen Stubb and Helena Bonham Cart
 
 ### Session 12: Aphra Behn, *The Rover*
 
-Please read Aphra Behn's "Prologue" and Acts 1-3. The print copy is preferred, but you can find a digital text at [Gutenberg](http://www.gutenberg.org/files/21339/21339-h/21339-h.htm) (read Part 1, which was a separate play, not Part 2, the sequel). Or you can use the [Internet Archive text](https://archive.org/details/worksofaphrbehn01behnuoft/page/14/mode/2up).
+Please read Aphra Behn's "Prologue" and Acts 1-3. The print copy is preferred, but you can find a digital text at {{% resource_link "3b4aa463-8237-46d3-a786-cc0d5c1bf8e5" "Gutenberg" %}} (read Part 1, which was a separate play, not Part 2, the sequel). Or you can use the {{% resource_link "8d3752f2-fd4f-4c8f-8eae-811a42cc600d" "Internet Archive text" %}}.
 
 In our discussion, we may take up Aphra Behn's remarkable life and her emergence in a culture that valued (while also denigrating) women's roles in the worlds of performative and literary arts; Behn's development of comic types and tropes we have seen; new developments in farce, sex comedy, and transgressions against patriarchal order; an interest in the economics of the marriage market, reminiscent of *Shrew* but envisioning radical alternatives to it as well; and the use of witty dialogue, trans-gender and -class disguise, and the mobility carnival affords to achieve some of the radical transformations Shakespeare delivers in his festive, green-world, or magical comedy.
 
@@ -109,7 +109,7 @@ I have posted some scholarly articles (optional) that address the issues of rape
 
 Austen's novel was published in 1813 in three volumes. The Oxford print edition ordered for the class retains that structure, and we will discuss each volume separately in class. The Oxford edition also offers a good introduction and timeline of Austen's life, as well as supplementary materials on "Rank and Social Status" and "Dancing." Not to be missed!
 
-If you are using an online edition such as [Project Gutenberg](https://www.gutenberg.org/files/1342/1342-h/1342-h.htm) or a print edition that runs the volumes together, the first reading assignment will cover chapters 1-23, the second chapters 24-42, and the last chapters 43-61.
+If you are using an online edition such as {{% resource_link "c20882d4-8f81-4ffc-b4b5-bca13638c316" "Project Gutenberg" %}} or a print edition that runs the volumes together, the first reading assignment will cover chapters 1-23, the second chapters 24-42, and the last chapters 43-61.
 
 We cannot read Austen without attending to questions about gender roles, marriage and courtship practices, class, wealth, and property, and why people in her novels spend so much time talking. I will post some articles on these topics, and you will undoubtedly find others on your own, which you can post at the discussion, if so inclined.
 
@@ -133,7 +133,7 @@ For this assignment, essays focus on literary endings; our workshop will pay att
 
 ### Session 18: Herman Melville, *Moby-Dick*
 
-You will find the text for Melville's *Moby-Dick* at [Melville Electronic Library](https://melville.electroniclibrary.org/). Select "Editions," then *Moby-Dick* "Reading Text." Read Chapters 1-23, the so-called "land chapters," in which Ishmael prepares to go to sea. Framing the whaling voyage that follows and moves into epic and tragedy, these chapters display many comic patterns we have encountered before. They also set up themes and situations we will find in readings by Wilde and Bechdel. It would be hard to call *Moby-Dick* a comedy, but it provides many examples of the comic. What did you find?
+You will find the text for Melville's *Moby-Dick* at {{% resource_link "a0a9a2d8-003f-4a67-9029-5835c54ea922" "Melville Electronic Library" %}}. Select "Editions," then *Moby-Dick* "Reading Text." Read Chapters 1-23, the so-called "land chapters," in which Ishmael prepares to go to sea. Framing the whaling voyage that follows and moves into epic and tragedy, these chapters display many comic patterns we have encountered before. They also set up themes and situations we will find in readings by Wilde and Bechdel. It would be hard to call *Moby-Dick* a comedy, but it provides many examples of the comic. What did you find?
 
 ### Session 19: Oscar Wilde, *The Importance of Being Ernest*
 

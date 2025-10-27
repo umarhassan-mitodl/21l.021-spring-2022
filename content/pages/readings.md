@@ -11,19 +11,19 @@ No required readings. 
 
 #### Supplemental Reading
 
-Netflix. "[Hannah Gadsby: Nanette | Official Trailer](https://www.youtube.com/watch?v=5aE29fiatQ0)." Jun 11, 2018. YouTube.
+Netflix. "{{% resource_link "1da7975b-f319-4fd9-a493-ddc3a0924645" "Hannah Gadsby: Nanette | Official Trailer" %}}." Jun 11, 2018. YouTube.
 
-Knot, Juliana. “['Saturday Night Live' Writer Michael Che Slams Unfunny Comedy Culture](https://thefederalist.com/2018/07/23/snl-writer-michael-che-criticizes-unfunny-comedy-culture/).” The Federalist, July 24, 2018. 
+Knot, Juliana. “{{% resource_link "f90c6e1f-0348-463f-b6da-6f64d54eed6b" "'Saturday Night Live' Writer Michael Che Slams Unfunny Comedy Culture" %}}.” The Federalist, July 24, 2018. 
 
-Ryzik, Melena. “[The Comedy-Destroying, Soul-Affirming Art of Hannah Gadsby](https://www.nytimes.com/2018/07/24/arts/hannah-gadsby-comedy-nanette.html).” The New York Times, July 24, 2018.
+Ryzik, Melena. “{{% resource_link "a9f6ed49-2a9a-47f3-b0e2-6d6ffd8f6713" "The Comedy-Destroying, Soul-Affirming Art of Hannah Gadsby" %}}.” The New York Times, July 24, 2018.
 
-Zinoman, Jason. “[If Comedy Is Making You Feel Bad, You're Not Paying Attention](https://www.nytimes.com/2018/07/26/arts/television/comedy-cultural-power.html).” The New York Times, July 26, 2018.
+Zinoman, Jason. “{{% resource_link "84d206a8-a8f1-4b15-b801-970ea7f8e562" "If Comedy Is Making You Feel Bad, You're Not Paying Attention" %}}.” The New York Times, July 26, 2018.
 
 ### Session 2
 
 Aristophanes. *Lysistrata*. In *Four Plays by Aristophanes*. London: Plume, 1994. ISBN: 9780452007178.
 
-Read the entire play or as much as you can of *Lysistrata.* An online version of *Lysistrata* is available at [Project Gutenberg](https://www.gutenberg.org/files/7700/7700-h/7700-h.htm).
+Read the entire play or as much as you can of *Lysistrata.* An online version of *Lysistrata* is available at {{% resource_link "0405f286-1c70-44d5-a1ff-23076cf3a2ca" "Project Gutenberg" %}}.
 
 ### Session 3
 
@@ -45,7 +45,7 @@ No required readings.
 
 Shakespeare, William. *The Taming of the Shrew*. In *Four Comedies*. Penguin Publishing Group, 1995.
 
-**Note:** For Shakespeare's *The Taming of the Shrew*, you can use any print edition or the [digital](http://shakespeare.mit.edu/) one available through MIT.
+**Note:** For Shakespeare's *The Taming of the Shrew*, you can use any print edition or the {{% resource_link "2da4ede5-3acb-4250-b156-9da665f40806" "digital" %}} one available through MIT.
 
 #### Optional Film
 
@@ -59,7 +59,7 @@ No required readings.
 
 Shakespeare, William. *Twelfth Night*. In *Four Comedies*. Penguin Publishing Group, 1995.
 
-**Note:** As with your reading of Shakespeare's *The Taming of the Shrew*, you are free to use any print edition for *Twelfth Night* or the [one available through MIT](http://shakespeare.mit.edu/twelfth_night/index.html). 
+**Note:** As with your reading of Shakespeare's *The Taming of the Shrew*, you are free to use any print edition for *Twelfth Night* or the {{% resource_link "84dfe5d3-773d-464b-90b4-4f9284369805" "one available through MIT" %}}. 
 
 #### Optional Film
 
@@ -69,7 +69,7 @@ Trevor Nunn. 1997. *Twelfth Night.* New Line Home Video.
 
 Behn, Aphra. *The Rover and Other Plays*. Edited by Jane Spencer. Oxford: Oxford University Press, 2008. ISBN: 9780199540204.
 
-Please read Aphra Behn's "Prologue" and Acts I-III. The print copy is preferred, but you can find a digital text at [Gutenberg](http://www.gutenberg.org/files/21339/21339-h/21339-h.htm) (read Part 1, which was a separate play, not Part 2, the sequel) or you can use the [Internet Archive text](https://archive.org/details/worksofaphrbehn01behnuoft/page/14/mode/2upLinks).
+Please read Aphra Behn's "Prologue" and Acts I-III. The print copy is preferred, but you can find a digital text at {{% resource_link "3b4aa463-8237-46d3-a786-cc0d5c1bf8e5" "Gutenberg" %}} (read Part 1, which was a separate play, not Part 2, the sequel) or you can use the {{% resource_link "c7b7aa26-9860-45e0-a14d-1794bc262428" "Internet Archive text" %}}.
 
 #### Supplemental Reading
 
@@ -91,13 +91,13 @@ Corse, Taylor. "Seventeenth-Century Naples and Aphra Behn's 'The Rover'." *Resto
 
 Austen, Jane. *Pride and Prejudice*. Edited by  James Kinsley, and Christina Lupton. New York: Oxford University Press, 2019. ISBN: 9780198826736.
 
-**Note:** Austen's novel was published in 1813 in three volumes. The Oxford print edition ordered for the class retains that structure, and we will discuss each volume separately in class. If you are using an online edition such as [Project Gutenberg](https://www.gutenberg.org/files/1342/1342-h/1342-h.htm) or a print edition that runs the volumes together, the first reading assignment will cover chapters 1-23, the second chapters 24-42, and the last chapters 43-61.
+**Note:** Austen's novel was published in 1813 in three volumes. The Oxford print edition ordered for the class retains that structure, and we will discuss each volume separately in class. If you are using an online edition such as {{% resource_link "c20882d4-8f81-4ffc-b4b5-bca13638c316" "Project Gutenberg" %}} or a print edition that runs the volumes together, the first reading assignment will cover chapters 1-23, the second chapters 24-42, and the last chapters 43-61.
 
 #### Supplemental Readings
 
-Casal, Elvira. "[Laughing at Mr. Darcy: Wit and Sexuality in Pride and Prejudice](https://jasna.org/persuasions/on-line/vol22no1/casal.html)." *Persuasions On-line* 22 (2001).
+Casal, Elvira. "{{% resource_link "40a5b711-7d8d-491d-b06c-30246281c365" "Laughing at Mr. Darcy: Wit and Sexuality in Pride and Prejudice" %}}." *Persuasions On-line* 22 (2001).
 
-Bailey, Martha. "[The Marriage Law of Jane Austen’s World](https://jasna.org/publications-2/persuasions-online/vol36no1/bailey/)." *Persuasions: The Jane Austen Journal On-Line* 36, no. 1 (2015).
+Bailey, Martha. "{{% resource_link "c3b82571-03cd-4d6f-bce6-56b2b8f76876" "The Marriage Law of Jane Austen’s World" %}}." *Persuasions: The Jane Austen Journal On-Line* 36, no. 1 (2015).
 
 #### Optional Film
 
@@ -109,15 +109,15 @@ No required readings.
 
 ### Session 19
 
-Melville, Herman. [*Moby-Dick; or, The Whale*](https://melville.electroniclibrary.org/editions/versions-of-moby-dick/1-loomings). Chapters 1–23. Herman Melville Electronic Library, 2008. 
+Melville, Herman. {{% resource_link "7ec23b32-d4da-4e5e-a7c3-881c8db465b6" "*Moby-Dick; or, The Whale*" %}}. Chapters 1–23. Herman Melville Electronic Library, 2008. 
 
-You will find the text for Melville's *Moby-Dick* at [Melville Electronic Library](https://melville.electroniclibrary.org/). Select "Editions," then *Moby-Dick* "Reading Text." Read Chapters 1-23, the so-called "land chapters," in which Ishmael prepares to go to sea.
+You will find the text for Melville's *Moby-Dick* at {{% resource_link "a0a9a2d8-003f-4a67-9029-5835c54ea922" "Melville Electronic Library" %}}. Select "Editions," then *Moby-Dick* "Reading Text." Read Chapters 1-23, the so-called "land chapters," in which Ishmael prepares to go to sea.
 
 ### Sessions 20–21
 
 Wilde, Oscar. *The Importance of Being Earnest and Other Plays*. Edited by Peter Raby. Oxford England: Oxford University Press, 2008. ISBN: 9780199535972.
 
-An online version is available at [Project Gutenberg](https://www.gutenberg.org/files/844/844-h/844-h.htm).
+An online version is available at {{% resource_link "2293f941-95ad-403a-bc71-1bab14a3860b" "Project Gutenberg" %}}.
 
 ### Session 22
 
@@ -135,8 +135,8 @@ Bechdel, Alison. *Fun Home: A Family Tragicomic*. Mariner Books, 2007. ISBN: 978
 
 ### Session 25
 
-TED. "[Three Ideas. Three Contradictions. Or Not. | Hannah Gadsby](https://www.youtube.com/watch?v=87qLWFZManA)." Jun 12, 2019. YouTube.
+TED. "{{% resource_link "0792bafb-741a-4b37-816e-cebb1e2dc11b" "Three Ideas. Three Contradictions. Or Not. | Hannah Gadsby" %}}." Jun 12, 2019. YouTube.
 
-Netflix is a Joke. "[How Hannah Gadsby's High-Functioning Autism Works](https://www.youtube.com/watch?v=5lXbpgU9OWk)." May 25, 2020. YouTube.
+Netflix is a Joke. "{{% resource_link "f628cf10-f15c-41f6-839d-4288bec9b10f" "How Hannah Gadsby's High-Functioning Autism Works" %}}." May 25, 2020. YouTube.
 
-rejectedburrito. "[Andy Kaufman on HBO (1977) pt. 1 of 4)](https://www.youtube.com/watch?v=f3UG8jP3A8M). Nov 20, 2009. YouTube.
+rejectedburrito. "{{% resource_link "eb6e4f98-7291-46e4-8d60-53b577d25a47" "Andy Kaufman on HBO (1977) pt. 1 of 4)" %}}. Nov 20, 2009. YouTube.

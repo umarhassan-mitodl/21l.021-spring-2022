@@ -19,7 +19,7 @@ See the full list of {{% resource_link "8d97e2c4-96fa-44ea-a0bf-2e0bb3d5490e" "e
 
 ### Report
 
-Each student will prepare and deliver a 10-minute in-class report on one day’s reading (possibly with a partner, depending on class size). This report should include research, using methods laid out in the research workshop and presenting a brief bibliography using [MLA Works Cited](https://owl.purdue.edu/owl/research_and_citation/mla_style/mla_formatting_and_style_guide/mla_formatting_and_style_guide.html)[.](https://owl.purdue.edu/owl/research_and_citation/mla_style/mla_formatting_and_style_guide/mla_works_cited_page_basic_format.html) Please prepare a handout or slides (a page or 250 words or equivalent in slides) to be shared with the class. 
+Each student will prepare and deliver a 10-minute in-class report on one day’s reading (possibly with a partner, depending on class size). This report should include research, using methods laid out in the research workshop and presenting a brief bibliography using {{% resource_link "5fb16069-eceb-4f44-856e-b0a6af7324f0" "MLA Works Cited" %}}{{% resource_link "4b3bc9af-ce37-423c-89e7-049dec26700a" "." %}} Please prepare a handout or slides (a page or 250 words or equivalent in slides) to be shared with the class. 
 
 It should
 

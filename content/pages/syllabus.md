@@ -2,8 +2,6 @@
 content_type: page
 description: Contains the syllabus for 21L.021 Comedy.
 draft: false
-hide_download: true
-hide_download_original: null
 title: Syllabus
 uid: bbc7600c-0de3-4980-8e78-2e537ddd687e
 ---
@@ -31,31 +29,31 @@ Print preferred, Kindle or Ebook acceptable, so long as laptops and cellphones c
 
 Aristophanes. *Four Plays by Aristophanes: The Clouds / the Birds / Lysistrata / the Frogs*. London: Plume, 1994. ISBN: 9780452007178.
 
-- An online version of *Lysistrata* is available at [Project Gutenberg](https://www.gutenberg.org/files/7700/7700-h/7700-h.htm).
+- An online version of *Lysistrata* is available at {{% resource_link "0405f286-1c70-44d5-a1ff-23076cf3a2ca" "Project Gutenberg" %}}.
 
 Plautus. "The Two Menaechmuses" in *Plautus.* Cambridge, MA: Loeb Classical Library. ISBN: 9780674996786.
 
 Shakespeare, William. *Four Comedies: The Taming of the Shrew ; A Midsummer Night's Dream ; as You like It ; Twelfth Night.* Penguin Publishing Group, 1995. ISBN: 9780140434545.
 
-- Free, online versions of Shakespeare's works are available [through MIT](http://shakespeare.mit.edu/).
+- Free, online versions of Shakespeare's works are available {{% resource_link "2da4ede5-3acb-4250-b156-9da665f40806" "through MIT" %}}.
 
 Behn, Aphra. *The Rover and Other Plays*. Oxford: Oxford Univ. Press, 2008. ISBN: 9780199540204.
 
-- An online version is available at [Project Gutenberg](https://www.gutenberg.org/files/844/844-h/844-h.htm). 
+- An online version is available at {{% resource_link "2293f941-95ad-403a-bc71-1bab14a3860b" "Project Gutenberg" %}}. 
 
 Austen, Jane. *Pride and Prejudice*. Edited by James Kinsley and Christina Lupton. New York, NY: Oxford University Press, 2019. ISBN: 9780198826736.
 
-- An online version is available at [Project Gutenberg](https://www.gutenberg.org/files/1342/1342-h/1342-h.htm).
+- An online version is available at {{% resource_link "c20882d4-8f81-4ffc-b4b5-bca13638c316" "Project Gutenberg" %}}.
 
-Melville, Herman. [*Moby-Dick*](https://melville.electroniclibrary.org/editions/versions-of-moby-dick/1-loomings). Herman Melville Electronic Library, 2008.
+Melville, Herman. {{% resource_link "7ec23b32-d4da-4e5e-a7c3-881c8db465b6" "*Moby-Dick*" %}}. Herman Melville Electronic Library, 2008.
 
 Wilde, Oscar. *The Importance of Being Earnest and Other Plays*. Edited by Peter Raby. Oxford England: Oxford University Press, 2008. ISBN: 9780199535972.
 
-- An online version is available at [Project Gutenberg](https://www.gutenberg.org/files/844/844-h/844-h.htm).
+- An online version is available at {{% resource_link "2293f941-95ad-403a-bc71-1bab14a3860b" "Project Gutenberg" %}}.
 
 Bechdel, Alison. *Fun Home: A Family Tragicomic*. Mariner Books, 2007. ISBN: 9780544709041.
 
-**Annotation Studio:** You can register, find texts, and annotate [here](https://annotation-studio.vercel.app/).
+**Annotation Studio:** You can register, find texts, and annotate {{% resource_link "1dfac802-e3f1-4a77-95d7-8316ce3ba9a5" "here" %}}.
 
 ### Grading
 
@@ -70,7 +68,7 @@ This is a discussion class where your attendance and participation in classroom 
 #### Written Work (70%)
 
 1. *Essay #1, Revision* (10% each)*, Essays #2 and #3* (15% each) These draw on discussion posts, class discussions, and open-ended prompts listed below. You have the option of handing in essays (please use Microsoft Word format) via Canvas any time before midnight of the day assigned.
-2. *In-Class Report* (10%) Depending on class size, students will work alone or in pairs/groups to prepare and deliver a 10-minute in-class report on one day’s reading or film. This report should include research, drawing on materials from print and online sources and presenting a Works Cited list [(MLA format](https://mlahandbookplus.org/)), on a handout or slides to be shared with the class and submitted for a grade (250 words). It should 1) present brief, salient context, 2) consider a passage from the reading, and 3) raise questions for further thought and analysis. You will be graded on content, delivery, and ability to generate class discussion.
+2. *In-Class Report* (10%) Depending on class size, students will work alone or in pairs/groups to prepare and deliver a 10-minute in-class report on one day’s reading or film. This report should include research, drawing on materials from print and online sources and presenting a Works Cited list {{% resource_link "72a884de-3ed1-4f75-b881-306ff1dcb435" "(MLA format" %}}), on a handout or slides to be shared with the class and submitted for a grade (250 words). It should 1) present brief, salient context, 2) consider a passage from the reading, and 3) raise questions for further thought and analysis. You will be graded on content, delivery, and ability to generate class discussion.
 3. *Reflection* (750 words or equivalent, 10%) At the end of the semester please submit an assessment of your learning in this class. You may use whatever medium communicates your ideas effectively.   
 
 *Conferences* Students will meet with writing advisor to go over essays and revision; these meetings are required and will be scheduled as soon as possible. You will also meet with me to discuss topics for the final essay.
