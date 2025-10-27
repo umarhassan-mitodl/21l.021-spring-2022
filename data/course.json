@@ -23,7 +23,7 @@
     "website": "21l021-comedy"
   },
   "course_title": "Comedy",
-  "hide_download": true,
+  "hide_download": false,
   "mit_learn_topics": [],
   "course_description": "Comedy, that most elastic literary and performance mode, skewers artifice, topples authority, and reverses expectations, not with the fatal outcomes of tragedy but with laughter and festivity. This class examines both deep roots and current forms of comedy, with a particular focus on comic insubordination. And food.\n\nWe will revel in Greek, Roman, and Shakespearean drama; explore Aphra Behn\u2019s eighteenth-century feminist rakes and sexual adventurers in *The Rover*; investigate social satire in Jane Austen, Herman Melville, and Oscar Wilde; peek under the covers of small-town family life in Alison Bechdel\u2019s *Fun Home*; and probe the uneasy relationship between farce and romantic love, violence and redemptive humor, satire and festivity in comic art. Discussion will draw on examples of popular and contemporary forms, including film and sketch comedy.",
   "department_numbers": [
@@ -35,7 +35,6 @@
     "content": "37344cac-4f25-4996-be43-ec0adb167c44",
     "website": "21l021-comedy"
   },
-  "hide_download_original": false,
   "learning_resource_types": [
     "Written Assignments",
     "Readings",
